@@ -1,0 +1,22 @@
+{
+  "header": {
+    "home": "Início",
+    "technologies": "Tecnologias",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Desenvolvedor Frontend & Engenheiro de Software",
+    "subtitle": "Transformando ideias em experiências digitais excepcionais"
+  },
+  "tech": {
+    "title": "Tecnologias"
+  },
+  "projects": {
+    "title": "Projetos",
+    "viewOnGithub": "Ver no GitHub"
+  },
+  "contact": {
+    "title": "Contato"
+  }
+} 
